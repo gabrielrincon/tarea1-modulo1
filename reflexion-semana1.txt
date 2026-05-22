@@ -1,0 +1,9 @@
+El uso responsable de la información en internet es fundamental para participar de manera consciente en la sociedad.
+Cuando verificamos fuentes, evitamos compartir noticias falsas y respetamos los derechos de autor, ayudamos a construir una ciudadanía más informada.
+La participación ciudadana necesita personas capaces de analizar la información antes de opinar o tomar decisiones.
+En ese sentido, internet puede ser una herramienta para aprender, denunciar, proponer y organizar acciones colectivas.
+Por su parte, herramientas como Git permiten organizar el trabajo técnico de forma ordenada y colaborativa.
+Con Git se pueden registrar cambios, trabajar en equipo y mantener evidencia del proceso realizado.
+Esto se relaciona con la responsabilidad, porque cada aporte queda documentado y puede ser revisado.
+Así, la tecnología no solo sirve para programar, sino también para fortalecer la transparencia y la colaboración.
+En conclusión, usar bien la información, participar activamente y organizar el trabajo técnico son prácticas necesarias para construir proyectos útiles para la comunidad.
